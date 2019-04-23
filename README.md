@@ -1,6 +1,6 @@
 # Zeit Now GitHub Action Example
 
-An example workflow, using [the GitHub Action for Zeit Now](https://github.com/actions/now) to deploy [a static website](site/), [octozen.now.sh](https://octozen.now.sh/).
+An example workflow, using [the GitHub Action for Zeit Now](https://github.com/actions/zeit-now) to deploy [a static website](site/), [octozen.now.sh](https://octozen.now.sh/).
 
 ## Workflow
 
