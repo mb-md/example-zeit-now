@@ -50,7 +50,7 @@
 
                 req.onreadystatechange = function process() {
                     if (req.readyState === XMLHttpRequest.DONE && req.status === 200) {
-                        document.getElementById("content").innerText = req.responseText;
+                        document.getElementById("content").innerText = req.responseText.replace(/M/g, "W");
                     }
                 };
 
